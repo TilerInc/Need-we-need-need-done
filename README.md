@@ -1,3 +1,5 @@
 # Need-we-need-need-done
 
-// Staff Jobs after vip
+// purge levels lowered
+// disable server level giver
+// 
